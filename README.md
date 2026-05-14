@@ -133,7 +133,7 @@ Recommended Browsers:
 - Google Chrome
 - Microsoft Edge
 - Firefox
-- 
+ 
 ---
 
 # 🧠 Technical Highlights
